@@ -89,7 +89,7 @@ Here are some of the projects I've worked on:
 <p align="left">
   <strong>Frameworks/Platforms (Web Development):</strong><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFu963SmaEElqJi1r5YiYE7L4Je0o-sbRz09QefiKJQYQuUCVvBq1kWLrWca-xLLObqKg&usqp=CAU" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="express" width="40" height="40" style="background-color:white; border-radius:5px"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png" alt="express" width="40" height="40" style="background-color:white; border-radius:5px"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
